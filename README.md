@@ -1,1 +1,1 @@
-# python_workshop_demos_april_2018
+# Python workshop demos (April 2018)
