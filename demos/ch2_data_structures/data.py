@@ -97,12 +97,11 @@ m = Measurement(x=4, y=5, quality=.992, value=70.1)
 print(f"The value of the measurement is {m.value}")
 print(m)
 
-
 print("---------------- SLICING ----------------------")
 n2 = list(numbers)
 print(n2)
 
-print(    n2[2:6]    )
+print(n2[2:6])
 
 # query = do_db_stuff()
 # page3 = query[10*3:10*3+10]
