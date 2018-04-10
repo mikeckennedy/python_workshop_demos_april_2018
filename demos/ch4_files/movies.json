@@ -1,0 +1,221 @@
+{
+    "keyword": "run",
+    "hits": [
+        {
+            "imdb_code": "tt0327850",
+            "title": "The Rundown",
+            "director": "Peter Berg",
+            "keywords": [
+                "bounty hunter",
+                "hunter",
+                "fight",
+                "amazon",
+                "jungle"
+            ],
+            "duration": 104,
+            "genres": [
+                "adventure",
+                "comedy",
+                "thriller",
+                "action"
+            ],
+            "rating": "PG-13",
+            "year": 2003,
+            "imdb_score": 6.7
+        },
+        {
+            "imdb_code": "tt0163187",
+            "title": "Runaway Bride",
+            "director": "Garry Marshall",
+            "keywords": [
+                "columnist",
+                "bride",
+                "wedding",
+                "journalist",
+                "maryland"
+            ],
+            "duration": 116,
+            "genres": [
+                "romance",
+                "comedy"
+            ],
+            "rating": "PG",
+            "year": 1999,
+            "imdb_score": 5.5
+        },
+        {
+            "imdb_code": "tt2199571",
+            "title": "Run All Night",
+            "director": "Jaume Collet-Serra",
+            "keywords": [
+                "one night",
+                "limousine",
+                "drug dealer",
+                "death",
+                "limousine driver"
+            ],
+            "duration": 114,
+            "genres": [
+                "thriller",
+                "action",
+                "crime",
+                "drama"
+            ],
+            "rating": "R",
+            "year": 2015,
+            "imdb_score": 6.6
+        },
+        {
+            "imdb_code": "tt0120630",
+            "title": "Chicken Run",
+            "director": "Peter Lord",
+            "keywords": [
+                "escape",
+                "rooster",
+                "freedom",
+                "chicken",
+                "farm"
+            ],
+            "duration": 84,
+            "genres": [
+                "comedy",
+                "drama",
+                "animation",
+                "adventure",
+                "family"
+            ],
+            "rating": "G",
+            "year": 2000,
+            "imdb_score": 7.0
+        },
+        {
+            "imdb_code": "tt1790864",
+            "title": "The Maze Runner",
+            "director": "Wes Ball",
+            "keywords": [
+                "maze",
+                "open ended",
+                "teenage boy",
+                "based on novel",
+                "concrete wall"
+            ],
+            "duration": 113,
+            "genres": [
+                "thriller",
+                "sci-fi",
+                "mystery",
+                "action"
+            ],
+            "rating": "PG-13",
+            "year": 2014,
+            "imdb_score": 6.8
+        },
+        {
+            "imdb_code": "tt0095631",
+            "title": "Midnight Run",
+            "director": "Martin Brest",
+            "keywords": [
+                "accountant",
+                "bounty hunter",
+                "mafia",
+                "mob",
+                "fbi"
+            ],
+            "duration": 126,
+            "genres": [
+                "comedy",
+                "thriller",
+                "action",
+                "crime"
+            ],
+            "rating": "R",
+            "year": 1988,
+            "imdb_score": 7.6
+        },
+        {
+            "imdb_code": "tt0093894",
+            "title": "The Running Man",
+            "director": "Paul Michael Glaser",
+            "keywords": [
+                "government conspiracy",
+                "latina",
+                "police",
+                "oppression",
+                "game of death"
+            ],
+            "duration": 101,
+            "genres": [
+                "thriller",
+                "sci-fi",
+                "action",
+                "crime"
+            ],
+            "rating": "R",
+            "year": 1987,
+            "imdb_score": 6.6
+        },
+        {
+            "imdb_code": "tt2364841",
+            "title": "Runner Runner",
+            "director": "Brad Furman",
+            "keywords": [
+                "fbi agent",
+                "costa rica",
+                "money",
+                "online gambling",
+                "gambling"
+            ],
+            "duration": 88,
+            "genres": [
+                "thriller",
+                "crime"
+            ],
+            "rating": "R",
+            "year": 2013,
+            "imdb_score": 5.6
+        },
+        {
+            "imdb_code": "tt0083658",
+            "title": "Blade Runner",
+            "director": "Ridley Scott",
+            "keywords": [
+                "human android relationship",
+                "tech noir",
+                "megacorporation",
+                "artificial intelligence",
+                "police detective"
+            ],
+            "duration": 117,
+            "genres": [
+                "thriller",
+                "sci-fi"
+            ],
+            "rating": "R",
+            "year": 1982,
+            "imdb_score": 8.2
+        },
+        {
+            "imdb_code": "tt0272338",
+            "title": "Punch-Drunk Love",
+            "director": "Paul Thomas Anderson",
+            "keywords": [
+                "phone sex",
+                "love",
+                "sister",
+                "pudding",
+                "harmonium"
+            ],
+            "duration": 95,
+            "genres": [
+                "romance",
+                "comedy",
+                "thriller",
+                "drama"
+            ],
+            "rating": "R",
+            "year": 2002,
+            "imdb_score": 7.3
+        }
+    ],
+    "truncated_results": true
+}
