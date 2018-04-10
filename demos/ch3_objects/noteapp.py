@@ -1,17 +1,17 @@
-# import model
-from models import Notebook, TextNote, VideoNote
+import models
+# from models import Notebook, TextNote, VideoNote
 
-n = Notebook("Biology")
+n = models.Notebook("Biology")
 
 while True:
     cmd = input("What now? [v]ideo note, [t]ext note, [s]how, e[x]it? ")
     if cmd == 'v':
         url = input("What is the URL of the video? ")
-        vn = VideoNote(url)
+        vn = models.VideoNote(url)
         n.notes.append(vn)
     elif cmd == 't':
         text = input("What is the text? ")
-        tn = TextNote(text)
+        tn = models.TextNote(text)
         n.notes.append(tn)
     elif cmd == 's':
         n.display()
