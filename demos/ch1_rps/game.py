@@ -70,7 +70,9 @@ def show_winner(computer_wins, outcome, player_wins):
         computer_wins += 1
     return RoundResult(computer_wins, player_wins)
 
+
 import collections
+
 RoundResult = collections.namedtuple("RoundResult", "computer_wins player_wins")
 
 
